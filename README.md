@@ -20,7 +20,8 @@
   
   고객 목록 페이징 처리
 ### 워크플로우
-[![고객관리 데모](https://github.com/user-attachments/assets/67874a0b-77aa-4142-bf36-30080007b5ff)](https://github.com/user-attachments/assets/b4330c1f-546b-420a-bcf0-206a5cd94c52)
+[![고객관리 데모](https://github.com/user-attachments/assets/67874a0b-77aa-4142-bf36-30080007b5ff)](https://github.com/user-attachments/assets/7a96faa4-9fb3-4b26-9a34-ee570e021113)
+
 
 ## 3. 피보험자
   작업 내용
