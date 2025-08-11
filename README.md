@@ -32,7 +32,7 @@
   
   UI 폼 입력 검증 추가
 ### 워크플로우
-[![피보험자 데모](https://github.com/user-attachments/assets/f358355a-fce1-4f70-affa-6655b1936142)](https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 
 
 ## 4. 보험계약
@@ -45,7 +45,7 @@
   계약 상태 및 만기일 관리 기능 추가
 ### 워크플로우
 
-<video src="https://github.com/user-attachments/assets/95082acf-56a9-4f32-9a31-219db5cb40b2" control width="600" />
+
 ## 5. 공지사항
   작업 내용
   
@@ -55,7 +55,7 @@
   
   중요 공지 표시 기능
 ### 워크플로우
-<video src="https://github.com/user-attachments/assets/b8a430db-fe65-4c6d-8155-c19902bd3057" control width="600" />
+
 
 
 
