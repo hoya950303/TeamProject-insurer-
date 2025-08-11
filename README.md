@@ -9,8 +9,7 @@
 
   로그인 실패/성공 시 메시지 처리
 ### 워크플로우
-<video src="https://github.com/user-attachments/assets/f956661f-fe26-4ab8-b874-4a85ea76ee44" control width="600" />
-
+[![로그인 데모](https://github.com/user-attachments/assets/75a0a361-2d06-401e-959b-82a76349e330)](https://github.com/user-attachments/assets/f956661f-fe26-4ab8-b874-4a85ea76ee44)
 
 ## 2. 고객관리
   작업 내용
