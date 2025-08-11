@@ -31,7 +31,7 @@
   
   UI 폼 입력 검증 추가
 ### 워크플로우
-[![피보험자 데모](https://github.com/user-attachments/assets/f358355a-fce1-4f70-affa-6655b1936142)](https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4)
+[![피보험자 데모](https://github.com/user-attachments/assets/f358355a-fce1-4f70-affa-6655b1936142)](https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 
 ## 4. 보험계약
