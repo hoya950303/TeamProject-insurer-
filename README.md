@@ -9,7 +9,7 @@
 
   로그인 실패/성공 시 메시지 처리
 ### 워크플로우
-<video src="" control width="600" />
+<video src="https://github.com/user-attachments/assets/f956661f-fe26-4ab8-b874-4a85ea76ee44" control width="600" />
 
 
 ## 2. 고객관리
@@ -21,20 +21,19 @@
   
   고객 목록 페이징 처리
 ### 워크플로우
-<video src="" control width="600" />
-추천 업로드 문구
+<video src="https://github.com/user-attachments/assets/b4330c1f-546b-420a-bcf0-206a5cd94c52" control width="600" />
 
 
 ## 3. 피보험자
-작업 내용
-
-피보험자 정보 관리 기능 구현
-
-보험 계약과 연동된 데이터 구조 설계
-
-UI 폼 입력 검증 추가
+  작업 내용
+  
+  피보험자 정보 관리 기능 구현
+  
+  고객과 연동된 데이터 구조 설계
+  
+  UI 폼 입력 검증 추가
 ### 워크플로우
-<video src="" control width="600" />
+<video src="https://github.com/user-attachments/assets/7a96faa4-9fb3-4b26-9a34-ee570e021113" control width="600" />
 
 
 ## 4. 보험계약
@@ -46,7 +45,7 @@ UI 폼 입력 검증 추가
   
   계약 상태 및 만기일 관리 기능 추가
 ### 워크플로우
-<video src="" control width="600" />
+<video src="https://github.com/user-attachments/assets/95082acf-56a9-4f32-9a31-219db5cb40b2" control width="600" />
 
 
 ## 5. 공지사항
@@ -58,7 +57,7 @@ UI 폼 입력 검증 추가
   
   중요 공지 표시 기능
 ### 워크플로우
-<video src="" control width="600" />
+<video src="https://github.com/user-attachments/assets/b8a430db-fe65-4c6d-8155-c19902bd3057" control width="600" />
 
 
 
