@@ -9,4 +9,4 @@
 
   로그인 실패/성공 시 메시지 처리
 워크플로우
-<video src="[https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4](https://github.com/user-attachments/assets/cc3413c9-0d33-4c60-aef4-205fd85fd77f)" control width="600" />
+<video src="https://github.com/user-attachments/assets/cc3413c9-0d33-4c60-aef4-205fd85fd77f" control width="600" />
