@@ -20,7 +20,8 @@
   
   고객 목록 페이징 처리
 ### 워크플로우
-<video src="https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4" control width="600" />
+[![고객관리 데모](https://github.com/user-attachments/assets/67874a0b-77aa-4142-bf36-30080007b5ff)](https://github.com/user-attachments/assets/b4330c1f-546b-420a-bcf0-206a5cd94c52)
+
 ## 3. 피보험자
   작업 내용
   
