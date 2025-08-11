@@ -9,10 +9,9 @@
 
   로그인 실패/성공 시 메시지 처리
 ### 워크플로우
-<video controls width="600">
-  <source src="https://github.com/user-attachments/assets/f956661f-fe26-4ab8-b874-4a85ea76ee44" type="video/mp4">
-</video>
-<video src="https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4" control width="600" />
+<video src="https://github.com/user-attachments/assets/f956661f-fe26-4ab8-b874-4a85ea76ee44" control width="600" />
+
+
 ## 2. 고객관리
   작업 내용
   
