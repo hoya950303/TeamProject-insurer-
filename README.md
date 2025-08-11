@@ -1,6 +1,6 @@
 # TeamProject-insurer-
 
-1. 로그인 구현
+## 1. 로그인 구현
   작업 내용
 
   Spring Security 기반 로그인 기능 구현
