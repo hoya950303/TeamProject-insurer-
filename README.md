@@ -12,7 +12,7 @@
 <video controls width="600">
   <source src="https://github.com/user-attachments/assets/f956661f-fe26-4ab8-b874-4a85ea76ee44" type="video/mp4">
 </video>
-
+<video src="https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4" control width="600" />
 ## 2. 고객관리
   작업 내용
   
@@ -25,7 +25,7 @@
 <video controls width="600">
   <source src="https://github.com/user-attachments/assets/b4330c1f-546b-420a-bcf0-206a5cd94c52" type="video/mp4">
 </video>
-
+<video src="https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4" control width="600" />
 ## 3. 피보험자
   작업 내용
   
@@ -38,7 +38,7 @@
 <video controls width="600">
   <source src="https://github.com/user-attachments/assets/7a96faa4-9fb3-4b26-9a34-ee570e021113" type="video/mp4">
 </video>
-
+<video src="https://github.com/hoya950303/TeamProject-insurer-/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.MP4" control width="600" />
 ## 4. 보험계약
   작업 내용
   
@@ -49,9 +49,9 @@
   계약 상태 및 만기일 관리 기능 추가
 ### 워크플로우
 <video controls width="600">
-  <source src="https://github.com/user-attachments/assets/95082acf-56a9-4f32-9a31-219db5cb40b2" type="video/mp4">
+  <source src="" type="video/mp4">
 </video>
-
+<video src="https://github.com/user-attachments/assets/95082acf-56a9-4f32-9a31-219db5cb40b2" control width="600" />
 ## 5. 공지사항
   작업 내용
   
@@ -61,7 +61,7 @@
   
   중요 공지 표시 기능
 ### 워크플로우
-<video src="https://https://github.com/user-attachments/assets/b8a430db-fe65-4c6d-8155-c19902bd3057" control width="600" />
+<video src="https://github.com/user-attachments/assets/b8a430db-fe65-4c6d-8155-c19902bd3057" control width="600" />
 
 
 
