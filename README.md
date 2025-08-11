@@ -61,10 +61,7 @@
   
   중요 공지 표시 기능
 ### 워크플로우
-<video controls width="600">
-  <source src="https://github.com/user-attachments/assets/b8a430db-fe65-4c6d-8155-c19902bd3057" type="video/mp4">
-</video>
-
+<video src="https://https://github.com/user-attachments/assets/b8a430db-fe65-4c6d-8155-c19902bd3057" control width="600" />
 
 
 
